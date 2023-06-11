@@ -32,3 +32,19 @@ li.nav-item a{
   display:block;
 }
 
+a.nav-link{
+  margin: 5px auto;
+}
+
+main.maininfo{
+  height:2100px;
+  background-color:lightskyblue;
+}
+
+div.row div{
+  height:666px;
+}
+
+h1.text-center{
+  background-color:white;
+}
